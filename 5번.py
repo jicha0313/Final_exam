@@ -8,4 +8,4 @@ def solution(numbers): # numbers를 변수로 사용하는 함수
         answer += i # 정렬된 리스트를 answer에 순서대로 더해줌
     
     return answer
-print(solution("4 40 49"))
+print(solution(" "))
